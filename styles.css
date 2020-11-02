@@ -1,0 +1,37 @@
+div.one{
+	position: absolute;
+	height: 250px;
+	width: 250px;	
+	background-color: #7F1734;
+	font-family: 'Montserrat', sans-serif;
+}
+div.two{
+	position: absolute;
+	height: 250px;
+	left:500px;
+	width: 250px;
+	background-color: #5e17eb;
+	font-family: 'Open Sans', sans-serif;
+}
+div.three{
+	position: absolute;
+	height: 250px;
+	width: 250px;
+	top: 500px;
+	background-color: #7F1734;
+	font-family: 'Montserrat', sans-serif;
+	left:500px;	
+}
+div.four{
+	position: absolute;
+	height: 250px;
+	width: 250px;
+	top:500px;
+	background-color: #5e17eb;
+	font-family: 'Open Sans', sans-serif;
+}
+body{	
+	background-image: url("drogheda.jpg");
+	background-repeat: no-repeat;
+	background-size: 750px 750px;
+}
